@@ -1,0 +1,3 @@
+In spark, RDD has two types of operations 
+1. Transformation
+2. Action
